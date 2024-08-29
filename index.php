@@ -5,18 +5,15 @@
     <meta charset="utf-8">
     <title>Brahmandnayak Agro company Import and export</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <!--<meta content="Free HTML Templates" name="keywords">-->
-    <!--<meta content="Free HTML Templates" name="description">-->
-
-    <!-- Favicon -->
-   
-    <!-- <link rel="icon" href="https://hameediyafarms.com/img/logo.png" /> -->
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link
         href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap"
         rel="stylesheet">
-
+ <!-- Favicon -->
+ <link href="img/image/b-logo.jpeg" rel="icon">
+    <link rel="shortcut icon" href="https://hameediyafarms.com/img/image/b-logo.jpeg" />
+    
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 

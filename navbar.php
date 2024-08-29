@@ -35,8 +35,8 @@
  <div class="container-fluid p-0">
      <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
          <a href="index.php" class="navbar-brand ml-lg-3">
-             <!-- <img src="img/logo.jpg" height="100px" width="100px" alt=""> -->
-             <h1>LOGO</h1>
+             <img src="img/image/b-logo.jpeg" height="100px" width="100px" alt="" style="object-fit: contain;">
+             
          </a>
          <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
              <span class="navbar-toggler-icon"></span>

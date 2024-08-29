@@ -9,8 +9,8 @@
     <!--<meta content="Free HTML Templates" name="description">-->
 
     <!-- Favicon -->
-    <link href="img/logo.png" rel="icon">
-    <link rel="shortcut icon" href="https://hameediyafarms.com/img/logo.png" />
+    <link href="img/image/b-logo.jpeg" rel="icon">
+    <link rel="shortcut icon" href="https://hameediyafarms.com/img/image/b-logo.jpeg" />
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link
@@ -54,7 +54,7 @@
                 <p class=" lh-lg" style="color: #2d3731;">Welcome to <a href="/">Brahmandnayak Agro company Import and export </a> At Brahmandnayak Agro Company Import and Export, we are passionate about bringing the finest agricultural products to the global market. With a commitment to quality, sustainability, and innovation, we specialize in the import and export of a diverse range of products, including premium rice, fresh fruits, crisp vegetables, and aromatic spices.</p>
                 <p><b>Rice : <br> </b>We offer a wide variety of rice, including basmati, jasmine, and short-grain varieties. Sourced from renowned rice-growing regions, our rice is known for its superior quality, flavor, and texture.</p>
                 <p><b>Fruits : <br> </b> From tropical mangoes to crisp apples, our selection of fresh fruits is carefully curated to provide you with the best in taste and freshness. We prioritize sourcing fruits that are grown sustainably and harvested at their peak.</p>
-                <p><b>Vegitables :  <br></b> Our range of fresh vegetables includes everything from leafy greens to root vegetables. We ensure that our vegetables are grown with care and delivered to you with maximum freshness and nutritional value.</p>
+                <p><b>Vegitables : <br></b> Our range of fresh vegetables includes everything from leafy greens to root vegetables. We ensure that our vegetables are grown with care and delivered to you with maximum freshness and nutritional value.</p>
                 <p><b>Spices : <br> </b> Our spices are handpicked from the best regions around the world. Whether you're looking for the warm notes of cinnamon, the fiery heat of chili, or the aromatic essence of cardamom, we offer a wide selection to enhance any dish. </p>
             </div>
         </div>

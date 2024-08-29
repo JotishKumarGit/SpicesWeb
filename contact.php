@@ -9,7 +9,8 @@
     <!--<meta content="Free HTML Templates" name="description">-->
 
     <!-- Favicon -->
-     <link href="img/logo.png" rel="icon">
+    <link href="img/image/b-logo.jpeg" rel="icon">
+    <link rel="shortcut icon" href="https://hameediyafarms.com/img/image/b-logo.jpeg" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -35,18 +36,16 @@
    ?>
 
     <!-- Header Start -->
-    <div class="jumbotron jumbotron-fluid     "
-        style="margin-bottom: 90px;background-image: linear-gradient(rgba(0, 0, 0, 0.432),rgba(0, 0, 0, 0.603)),url(img/contact.jpg);background-position: bottom; ">
+    <div class="jumbotron jumbotron-fluid"
+        style="background-image: linear-gradient(rgba(0, 0, 0, 0.432),rgba(0, 0, 0, 0.603)),url(img/contact.jpg);background-position: bottom; ">
         <div class="container text-center py-5">
             <h1 class="text-white display-4">Contact Us</h1>
-
-
         </div>
     </div>
 
     <!-- Header End -->
 
-    <section>
+    <section class="py-5" style="background-color:azure;">
         <div class="container text-center">
             <div class="section-title">
                 <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">Contact Us</h4>
@@ -73,8 +72,8 @@
     </section>
     <section>
         <div class="container">
-            <div class="row">
-                <div class="col-lg-7">
+            <div class="row pt-5">
+                <div class="col-lg-6">
                     <form action="" class="  ">
                         <div class="row">
                             <div class="col-lg-6 my-2">
@@ -111,7 +110,7 @@
 
                     </form>
                 </div>
-                <div class="col-lg-5">
+                <div class="col-lg-6">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.7198064988343!2d72.99513447575121!3d19.1637384492111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf4a6ad4113d%3A0xe3dc806a30d251c3!2sUjala%20Society!5e0!3m2!1sen!2sin!4v1724672205072!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>

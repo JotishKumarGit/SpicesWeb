@@ -17,14 +17,17 @@
            
         </div>
         <div class="col-lg-3 col-md-6 mb-5">
-            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Follow Us</h4>
+            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Quick Links</h4>
 
             <div class="d-flex justify-content-start">
-                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a class="btn btn-lg btn-outline-light btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
-            </div>
+                <div>
+                <p ><a href="index.php" class="text-white">Home</a></p>
+           
+                <p ><a href="index.php" class="text-white">About</a></p>
+         
+                <p ><a href="index.php" class="text-white">Products</a></p>
+                <p ><a href="index.php" class="text-white">Contact</a></p>
+            </div></div>
 
 
         </div>
@@ -33,17 +36,15 @@
             <p class="" style="text-align: justify;">At <b class="">Brahmandnayak Agro company Import and export</b>,we specialize in bringing you the finest quality coffee seeds and pepper products sourced from the best regions around the world. Whether you're a coffee enthusiast or a culinary aficionado, our carefully curated selection promises to elevate your experience.</p>
         </div>
         <div class="col-lg-3 col-md-6 mb-5">
-            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Newsletter</h4>
+            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Follow Us</h4>
 
-            <div class="w-100">
-                <div class="input-group">
-                    <input type="text" class="form-control border-light" style="padding: 25px;" placeholder="Your Email">
-                    <div class="input-group-append">
-                        <button class="btn btn-primary font-weight-bold px-3">Sign Up</button>
-                    </div>
-                </div>
+            <div class="d-flex justify-content-start">
+                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
             </div>
-            <a href="trust.pdf" class="mt-3 mt-3 d-block "><img src="img/trust.jpg" class="rounded" height="100px" width="110px" alt="trust sheel" /></a>
+            <!-- <a href="trust.pdf" class="mt-3 mt-3 d-block "><img src="img/trust.jpg" class="rounded" height="100px" width="110px" alt="trust sheel" /></a> -->
         </div>
     </div>
     <div class="container-fluid text-center text-white border-top mt-4 py-4 px-sm-3 px-md-5" style="border-color: rgba(256, 256, 256, .1) !important;">
@@ -114,11 +115,11 @@
         window.open(url1, "_blank").focus();
     }
 </script>
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
-</script> -->
+</script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!-- Back to Top -->
