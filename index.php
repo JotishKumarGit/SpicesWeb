@@ -168,7 +168,7 @@
                     <section class="margin">
 
                         <div class="row justify-content-center">
-                            <div class="col-lg-12 text-center text-capitalize">
+                            <div class="col-lg-12 text-center text-capitalize" >
                                 <div class="owl-carousel related-carousel  " style="padding: 0 30px;">
                                     <?php
                                     include "config.php";

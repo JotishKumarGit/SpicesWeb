@@ -7,8 +7,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <!--<meta content="Free HTML Templates" name="keywords">-->
     <!--<meta content="Free HTML Templates" name="description">-->
- <!-- Favicon -->
- <link href="img/image/b-logo.jpeg" rel="icon">
+    <!-- Favicon -->
+    <link href="img/image/b-logo.jpeg" rel="icon">
     <link rel="shortcut icon" href="https://hameediyafarms.com/img/image/b-logo.jpeg" />
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -32,12 +32,12 @@
     <?php include_once "navbar.php"; ?>
 
     <!-- Header Start -->
-    <div class="jumbotron jumbotron-fluid     "
-        style="margin-bottom: 90px;background-image: linear-gradient(rgba(0, 0, 0, 0.432),rgba(0, 0, 0, 0.603)),url(img/banner/green-beeg.jpg);background-position: bottom; ">
+    <div class="jumbotron jumbotron-fluid"
+        style="margin-bottom: 90px;background-image: linear-gradient(rgb(12 2 2 / 96%), rgb(20 19 19 / 86%)),url(img/image/banner-1.jpg);background-position: bottom; ">
         <div class="container text-center py-5">
             <h1 class="text-white display-4">Product Details </h1>
 
-
+            
         </div>
     </div>
 
@@ -61,8 +61,8 @@
                 $q = mysqli_query($con, $sel);
                 while ($row = mysqli_fetch_array($q)) {
                 ?>
-                    <div class="col-12 col-lg-3">
-                        <div class="shadow-lg" style="border: 1px solid black; border-radius: 10px;">
+                    <div class="col-12 col-lg-3 my-3">
+                        <div class="shadow-lg h-100" style="border: 1px solid black; border-radius: 10px;">
                             <img src="<?php echo $row['image'] ?>" class=" " height="200px" width="100%" style="object-fit: cover; border: 1px solid black;" alt="Rice">
                             <h4 class="text-primary text-uppercase text-center py-3" style="letter-spacing: 5px;"><?php echo $row['name'] ?></h4>
                             <div class="text-center pb-2"><button class="py-2 px-4 text-white bg-dark" style="border-radius: 100px;"><a href="" data-bs-toggle="modal" data-bs-target="#exampleModal" class="text-white text-decoration-none ">Enquiry</a></button></div>
