@@ -53,11 +53,12 @@
                 </div> -->
         </div>
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <?php
-                $slug = $_GET['cat_name'];
                 include "config.php";
-                $sel = "SELECT * FROM `pro` where `cat_name`='$slug'";
+
+                $cat_name = $_GET['pro_id'];
+                $sel = "SELECT * FROM `pro` where `pro_id`='$cat_name'";
                 $q = mysqli_query($con, $sel);
                 while ($row = mysqli_fetch_array($q)) {
                 ?>
@@ -67,15 +68,23 @@
                             <h4 class="text-primary text-capitalize text-center py-3" style="letter-spacing: 2px;"><?php echo $row['name'] ?></h4>
                             <div class="text-center pb-2">
                                 <a class="text-center "><button class="py-2 px-4 text-white bg-dark" style="border-radius: 100px;"><a href="" data-bs-toggle="modal" data-bs-target="#exampleModal" class="text-white text-decoration-none ">Enquiry</a></button></a>
-                                <a href="singlepage.php?pro_id=<?php echo $row['pro_id'] ?>"><button class="text-center py-2 px-4 border-none rounded-pill">Details</button></a>
                             </div>
                         </div>
                     </div>
-                <?php } ?>
+                    <div class="col-lg-7">
+                        <h2 class="py-4"><?php echo $row['name']; ?></h2>
+                        <p class="text-center"> <?php echo $row['content']; ?></p>
+                    </div>
             </div>
+        <?php } ?>
         </div>
     </div>
+    </div>
     <!-- About End -->
-
-
     <?php include_once "footer.php"; ?>
+
+
+
+
+
+

@@ -23,10 +23,10 @@
                 <div>
                 <p ><a href="index.php" class="text-white">Home</a></p>
            
-                <p ><a href="index.php" class="text-white">About</a></p>
+                <p ><a href="about.php" class="text-white">About</a></p>
          
-                <p ><a href="index.php" class="text-white">Products</a></p>
-                <p ><a href="index.php" class="text-white">Contact</a></p>
+                <p ><a href="" class="text-white">Products</a></p>
+                <p ><a href="contact.php" class="text-white">Contact</a></p>
             </div></div>
 
 
